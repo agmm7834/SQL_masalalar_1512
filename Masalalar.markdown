@@ -78,5 +78,4 @@
 40. RIGHT JOIN orqali barcha kategoriyalar va mahsulotlarni chiqaring.
 
 ---
-* yoki **test shakliga** aylantirib beraman
-* yoki **imtihon / olimpiada formati**da tuzib beraman
+
