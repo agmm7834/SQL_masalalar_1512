@@ -1,4 +1,3 @@
----
 
 ## 1–5. Data types (INTEGER, TEXT, REAL, NULL)
 
